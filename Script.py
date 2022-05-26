@@ -40,7 +40,7 @@ class script(object):
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/CyniteMoviesBot)</code>
+<code>[Button Text](buttonurl:https://t.me/zsearcherBot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -67,7 +67,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Cynite Imdb Bot
+these are the extra features of Spider Bot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
